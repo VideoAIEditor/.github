@@ -128,7 +128,3 @@ Download the latest archive and replace the old files — project presets and vo
 ## 🔎 SEO Keywords
 
 Video AI Editor, AI video editor, AI video editing software, Windows AI video editor, text-based video editing, transcript-based editing, auto captions generator, silence removal tool, background removal without green screen, voice cloning software, AI dubbing tool, scene detection, auto subtitle generator, video editing app with AI, AI post production, filler word remover, SRT export, VTT export, AI video editor 2026
-
-## ⚠️ Disclaimer
-
-Provided for educational and informational purposes only. Use at your own risk and in accordance with the terms of service of any platform or software you interact with.
