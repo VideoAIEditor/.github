@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Video AI Editor" width="100%">
+  <img src="https://i.postimg.cc/cH0zRCKM/banner.png" alt="Video AI Editor" width="100%">
 </p>
 
 <h1 align="center">Video AI Editor</h1>
